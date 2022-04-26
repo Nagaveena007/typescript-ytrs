@@ -1,0 +1,24 @@
+.circle {
+  background: #f50057;
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container__part {
+  display: flex !important;
+  justify-content: center;
+  align-items: center !important;
+  flex-direction: column;
+  margin-top: 10%;
+}
+.row__part {
+  display: flex;
+  flex-direction: column;
+  align-items: center !important;
+}
+.button__part {
+}

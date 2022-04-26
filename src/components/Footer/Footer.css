@@ -1,0 +1,20 @@
+#footer__deco {
+  background-color: rgb(185, 170, 170);
+  color: black;
+  font-size: medium;
+  min-height: 60px;
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.footerText__deco {
+  color: black;
+}
+.text__align {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
